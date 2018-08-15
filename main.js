@@ -88,22 +88,22 @@
         };
 
         //合成する文字の位置情報などを定義
-        var txt = {
-            'txt01' : {
-                'x' : 18,
-                'y': 555,
-                'font': '23px/1.5 Meiryo,sans-serif',
-                'align': 'left',
-                'color': 'white'
-            },
-            'txt02' : {
-                'x' : 25,
-                'y': 595,
-                'font': '30px/1.5 Meiryo,sans-serif',
-                'align': 'left',
-                'color': 'white'
-            }
-        };
+        // var txt = {
+        //     'txt01' : {
+        //         'x' : 18,
+        //         'y': 555,
+        //         'font': '23px/1.5 Meiryo,sans-serif',
+        //         'align': 'left',
+        //         'color': 'white'
+        //     },
+        //     'txt02' : {
+        //         'x' : 25,
+        //         'y': 595,
+        //         'font': '30px/1.5 Meiryo,sans-serif',
+        //         'align': 'left',
+        //         'color': 'white'
+        //     }
+        // };
 
         //イベント関連処理
         //初回のみCanvasを作成しておく
